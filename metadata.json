@@ -1,0 +1,6 @@
+{
+  "name": "Smart Farmer",
+  "description": "منصة المزارع الذكي - المنصة الوطنية المصرية الشاملة لإدارة وتطوير الزراعة بتقنيات الذكاء الاصطناعي، إنترنت الأشياء، الخرائط الرقمية والاستشعار عن بعد لدعم المزارعين والمهندسين والشركات الزراعية.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
